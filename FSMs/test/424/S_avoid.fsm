@@ -1,0 +1,82 @@
+12
+
+A5_B8.A5.B8	1	5
+b07e	A5_B7.A5.B7	c	o
+a04f	A5_B8.A5.B8	uc	o
+b01f	A5_B8.A5.B8	uc	o
+b03f	A5_B8.A5.B8	uc	o
+a06e	A6_B8.A6.B8	c	o
+
+A5_B6.A5.B6	1	4
+a04f	A5_B6.A5.B6	uc	o
+b02f	A5_B6.A5.B6	uc	o
+b07e	A5_B7.A5.B7	c	o
+a08e	A8_B6.A8.B6	c	o
+
+A5_B7.A5.B7	1	5
+b06e	A5_B6.A5.B6	c	o
+a04f	A5_B7.A5.B7	uc	o
+b08e	A5_B8.A5.B8	c	o
+a06e	A6_B7.A6.B7	c	o
+a08e	A8_B7.A8.B7	c	o
+
+A6_B5.A6.B5	1	4
+a02f	A6_B5.A6.B5	uc	o
+b04f	A6_B5.A6.B5	uc	o
+b08e	A6_B8.A6.B8	c	o
+a07e	A7_B5.A7.B5	c	o
+
+A6_B7.A6.B7	1	3
+a05e	A5_B7.A5.B7	c	o
+a02f	A6_B7.A6.B7	uc	o
+b08e	A6_B8.A6.B8	c	o
+
+A6_B8.A6.B8	1	7
+a05e	A5_B8.A5.B8	c	o
+b05e	A6_B5.A6.B5	c	o
+b07e	A6_B7.A6.B7	c	o
+a02f	A6_B8.A6.B8	uc	o
+b01f	A6_B8.A6.B8	uc	o
+b03f	A6_B8.A6.B8	uc	o
+a07e	A7_B8.A7.B8	c	o
+
+A7_B5.A7.B5	1	5
+a06e	A6_B5.A6.B5	c	o
+b04f	A7_B5.A7.B5	uc	o
+b06e	A7_B6.A7.B6	c	o
+b08e	A7_B8.A7.B8	c	o
+a08e	A8_B5.A8.B5	c	o
+
+A7_B6.A7.B6	1	3
+b05e	A7_B5.A7.B5	c	o
+b02f	A7_B6.A7.B6	uc	o
+a08e	A8_B6.A8.B6	c	o
+
+A7_B8.A7.B8	1	4
+a06e	A6_B8.A6.B8	c	o
+b05e	A7_B5.A7.B5	c	o
+b01f	A7_B8.A7.B8	uc	o
+b03f	A7_B8.A7.B8	uc	o
+
+A8_B5.A8.B5	1	5
+a07e	A7_B5.A7.B5	c	o
+a01f	A8_B5.A8.B5	uc	o
+a03f	A8_B5.A8.B5	uc	o
+b04f	A8_B5.A8.B5	uc	o
+b06e	A8_B6.A8.B6	c	o
+
+A8_B6.A8.B6	1	7
+a05e	A5_B6.A5.B6	c	o
+a07e	A7_B6.A7.B6	c	o
+b05e	A8_B5.A8.B5	c	o
+a01f	A8_B6.A8.B6	uc	o
+a03f	A8_B6.A8.B6	uc	o
+b02f	A8_B6.A8.B6	uc	o
+b07e	A8_B7.A8.B7	c	o
+
+A8_B7.A8.B7	1	4
+a05e	A5_B7.A5.B7	c	o
+b06e	A8_B6.A8.B6	c	o
+a01f	A8_B7.A8.B7	uc	o
+a03f	A8_B7.A8.B7	uc	o
+

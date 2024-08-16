@@ -1,0 +1,206 @@
+45
+
+q0	0	4
+a05s	q42	c	o
+a06s	q44	c	o
+b01s	q43	c	o
+b03s	q8	c	o
+
+q1	0	2
+a05f	q2	uc	o
+b03f	q17	uc	o
+
+q10	0	4
+a05s	q21	c	o
+a06s	q26	c	o
+b01s	q24	c	o
+b04s	q25	c	o
+
+q11	0	3
+a06f	q24	uc	o
+b02s	q20	c	o
+b04s	q27	c	o
+
+q12	0	3
+a05s	q15	c	o
+a06s	q20	c	o
+b04s	q19	c	o
+
+q13	0	2
+a05f	q14	uc	o
+b04f	q32	uc	o
+
+q14	0	3
+a05s	q13	c	o
+a06s	q27	c	o
+b04f	q35	uc	o
+
+q15	0	2
+a05f	q12	uc	o
+b04s	q18	c	o
+
+q16	0	2
+a06f	q19	uc	o
+b04f	q33	uc	o
+
+q17	0	3
+a05f	q24	uc	o
+b02s	q15	c	o
+b04s	q13	c	o
+
+q18	0	2
+a05f	q19	uc	o
+b04f	q31	uc	o
+
+q19	0	3
+a05s	q18	c	o
+a06s	q16	c	o
+b04f	q30	uc	o
+
+q2	0	3
+a05s	q1	c	o
+a06s	q9	c	o
+b03f	q24	uc	o
+
+q20	0	2
+a06f	q12	uc	o
+b04s	q16	c	o
+
+q21	0	3
+a05f	q10	uc	o
+b01s	q17	c	o
+b04s	q23	c	o
+
+q22	0	2
+a06f	q25	uc	o
+b04f	q36	uc	o
+
+q23	0	2
+a05f	q25	uc	o
+b04f	q34	uc	o
+
+q24	0	4
+a05s	q17	c	o
+a06s	q11	c	o
+b02s	q12	c	o
+b04s	q14	c	o
+
+q25	0	3
+a05s	q23	c	o
+a06s	q22	c	o
+b04f	q28	uc	o
+
+q26	0	3
+a06f	q10	uc	o
+b01s	q11	c	o
+b04s	q22	c	o
+
+q27	0	2
+a06f	q14	uc	o
+b04f	q29	uc	o
+
+q28	0	3
+a05s	q34	c	o
+a06s	q36	c	o
+b01s	q35	c	o
+
+q29	0	2
+a06f	q35	uc	o
+b02s	q33	c	o
+
+q3	0	2
+a06f	q5	uc	o
+b03f	q20	uc	o
+
+q30	1	2
+a05s	q31	c	o
+a06s	q33	c	o
+
+q31	1	1
+a05f	q30	uc	o
+
+q32	0	2
+a05f	q35	uc	o
+b02s	q31	c	o
+
+q33	1	1
+a06f	q30	uc	o
+
+q34	0	2
+a05f	q28	uc	o
+b01s	q32	c	o
+
+q35	0	3
+a05s	q32	c	o
+a06s	q29	c	o
+b02s	q30	c	o
+
+q36	0	2
+a06f	q28	uc	o
+b01s	q29	c	o
+
+q37	0	3
+a06f	q43	uc	o
+b02s	q41	c	o
+b03s	q9	c	o
+
+q38	0	3
+a05s	q39	c	o
+a06s	q41	c	o
+b03s	q5	c	o
+
+q39	0	2
+a05f	q38	uc	o
+b03s	q4	c	o
+
+q4	0	2
+a05f	q5	uc	o
+b03f	q15	uc	o
+
+q40	0	3
+a05f	q43	uc	o
+b02s	q39	c	o
+b03s	q1	c	o
+
+q41	0	2
+a06f	q38	uc	o
+b03s	q3	c	o
+
+q42	0	3
+a05f	q0	uc	o
+b01s	q40	c	o
+b03s	q7	c	o
+
+q43	0	4
+a05s	q40	c	o
+a06s	q37	c	o
+b02s	q38	c	o
+b03s	q2	c	o
+
+q44	0	3
+a06f	q0	uc	o
+b01s	q37	c	o
+b03s	q6	c	o
+
+q5	0	3
+a05s	q4	c	o
+a06s	q3	c	o
+b03f	q12	uc	o
+
+q6	0	2
+a06f	q8	uc	o
+b03f	q26	uc	o
+
+q7	0	2
+a05f	q8	uc	o
+b03f	q21	uc	o
+
+q8	0	3
+a05s	q7	c	o
+a06s	q6	c	o
+b03f	q10	uc	o
+
+q9	0	2
+a06f	q2	uc	o
+b03f	q11	uc	o
+

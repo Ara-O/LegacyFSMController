@@ -1,0 +1,578 @@
+128
+
+1	0	6
+a01s	2	c	o
+a03s	3	c	o
+a05s	4	c	o
+b01s	5	c	o
+b03s	6	c	o
+b05s	7	c	o
+
+2	0	5
+a03s	86	c	o
+a05s	71	c	o
+b03s	53	c	o
+b05s	87	c	o
+a02s	74	c	o
+
+3	0	5
+a01s	86	c	o
+a05s	81	c	o
+b01s	73	c	o
+b05s	91	c	o
+a04s	8	c	o
+
+4	0	3
+b01s	67	c	o
+b03s	70	c	o
+a05f	69	uc	o
+
+5	0	5
+a03s	73	c	o
+a05s	67	c	o
+b03s	49	c	o
+b05s	75	c	o
+b02s	74	c	o
+
+6	0	5
+a01s	53	c	o
+a05s	70	c	o
+b01s	49	c	o
+b05s	111	c	o
+b04s	8	c	o
+
+7	0	3
+a01s	87	c	o
+a03s	91	c	o
+b05f	92	uc	o
+
+8	0	4
+a01s	9	c	o
+a05s	10	c	o
+b01s	11	c	o
+b05s	12	c	o
+
+9	0	3
+a05s	44	c	o
+b05s	56	c	o
+a02s	55	c	o
+
+10	0	2
+b01s	14	c	o
+a05f	13	uc	o
+
+11	0	3
+a05s	14	c	o
+b05s	61	c	o
+b02s	55	c	o
+
+12	0	2
+a01s	56	c	o
+b05f	25	uc	o
+
+13	0	3
+a01s	48	c	o
+b01s	65	c	o
+a06s	105	c	o
+
+14	0	2
+a05f	65	uc	o
+b02s	57	c	o
+
+15	0	2
+a04s	16	c	o
+b06f	17	uc	o
+
+16	0	1
+b06f	38	uc	o
+
+17	0	1
+a04s	38	c	o
+
+18	0	3
+a03s	19	c	o
+b03s	20	c	o
+b06s	21	c	o
+
+19	0	2
+a04s	89	c	o
+b06s	15	c	o
+
+20	0	2
+b06s	123	c	o
+b04s	89	c	o
+
+21	0	2
+a03s	15	c	o
+b06f	32	uc	o
+
+22	0	4
+a01s	23	c	o
+b01s	24	c	o
+b06s	26	c	o
+b04s	25	c	o
+
+23	0	3
+b06s	41	c	o
+b04s	88	c	o
+a02s	20	c	o
+
+24	0	3
+b06s	121	c	o
+b04s	90	c	o
+b02s	20	c	o
+
+25	0	3
+a01s	88	c	o
+b01s	90	c	o
+b06s	125	c	o
+
+26	0	2
+a01s	41	c	o
+b06f	31	uc	o
+
+27	0	4
+a01s	28	c	o
+a03s	29	c	o
+b01s	30	c	o
+b03s	31	c	o
+
+28	0	3
+a03s	47	c	o
+b03s	36	c	o
+a02s	32	c	o
+
+29	0	3
+a01s	47	c	o
+b01s	46	c	o
+a04s	45	c	o
+
+30	0	3
+a03s	46	c	o
+b03s	33	c	o
+b02s	32	c	o
+
+31	0	3
+a01s	36	c	o
+b01s	33	c	o
+b04s	45	c	o
+
+32	0	2
+a03s	17	c	o
+b03s	34	c	o
+
+33	0	2
+b04s	35	c	o
+b02s	34	c	o
+
+34	0	1
+b04s	38	c	o
+
+35	0	1
+b02s	38	c	o
+
+36	0	2
+b04s	37	c	o
+a02s	34	c	o
+
+37	0	1
+a02s	38	c	o
+
+38	1	0
+
+39	0	2
+a03s	40	c	o
+b06f	30	uc	o
+
+40	0	2
+a04s	124	c	o
+b06f	46	uc	o
+
+41	0	2
+b06f	36	uc	o
+a02s	123	c	o
+
+42	0	2
+a05f	43	uc	o
+b04s	44	c	o
+
+43	0	3
+b04s	48	c	o
+a02s	64	c	o
+a06s	108	c	o
+
+44	0	1
+a05f	48	uc	o
+
+45	0	2
+a01s	37	c	o
+b01s	35	c	o
+
+46	0	2
+a04s	35	c	o
+b02s	17	c	o
+
+47	0	2
+a04s	37	c	o
+a02s	17	c	o
+
+48	0	2
+a02s	66	c	o
+a06s	109	c	o
+
+49	0	4
+a05s	50	c	o
+b05s	52	c	o
+b04s	11	c	o
+b02s	51	c	o
+
+50	0	3
+a05f	77	uc	o
+b04s	14	c	o
+b02s	59	c	o
+
+51	0	3
+a05s	59	c	o
+b05s	60	c	o
+b04s	55	c	o
+
+52	0	1
+b05f	24	uc	o
+
+53	0	4
+a05s	42	c	o
+b05s	54	c	o
+b04s	9	c	o
+a02s	51	c	o
+
+54	0	2
+a02s	60	c	o
+b05f	23	uc	o
+
+55	0	2
+a05s	57	c	o
+b05s	58	c	o
+
+56	0	2
+a02s	58	c	o
+b05f	88	uc	o
+
+57	0	1
+a05f	66	uc	o
+
+58	0	1
+b05f	89	uc	o
+
+59	0	2
+a05f	64	uc	o
+b04s	57	c	o
+
+60	0	1
+b05f	20	uc	o
+
+61	0	1
+b05f	90	uc	o
+
+62	0	2
+b03s	59	c	o
+a05f	63	uc	o
+
+63	0	3
+a03s	85	c	o
+b03s	64	c	o
+a06s	103	c	o
+
+64	0	2
+b04s	66	c	o
+a06s	110	c	o
+
+65	0	2
+b02s	66	c	o
+a06s	106	c	o
+
+66	0	1
+a06s	113	c	o
+
+67	0	3
+b03s	50	c	o
+a05f	68	uc	o
+b02s	62	c	o
+
+68	0	4
+a03s	79	c	o
+b03s	77	c	o
+b02s	63	c	o
+a06s	102	c	o
+
+69	0	5
+a01s	72	c	o
+a03s	82	c	o
+b01s	68	c	o
+b03s	76	c	o
+a06s	101	c	o
+
+70	0	3
+b01s	50	c	o
+a05f	76	uc	o
+b04s	10	c	o
+
+71	0	2
+b03s	42	c	o
+a05f	72	uc	o
+
+72	0	4
+a03s	84	c	o
+b03s	43	c	o
+a02s	63	c	o
+a06s	115	c	o
+
+73	0	4
+a05s	78	c	o
+b05s	99	c	o
+a04s	11	c	o
+b02s	112	c	o
+
+74	0	4
+a03s	112	c	o
+a05s	62	c	o
+b03s	51	c	o
+b05s	93	c	o
+
+75	0	2
+a03s	99	c	o
+b05f	107	uc	o
+
+76	0	4
+a01s	43	c	o
+b01s	77	c	o
+b04s	13	c	o
+a06s	114	c	o
+
+77	0	3
+b04s	65	c	o
+b02s	64	c	o
+a06s	104	c	o
+
+78	0	2
+a05f	79	uc	o
+b02s	80	c	o
+
+79	0	3
+a04s	65	c	o
+b02s	85	c	o
+a06s	117	c	o
+
+80	0	1
+a05f	85	uc	o
+
+81	0	2
+b01s	78	c	o
+a05f	82	uc	o
+
+82	0	4
+a01s	84	c	o
+b01s	79	c	o
+a04s	13	c	o
+a06s	116	c	o
+
+83	0	1
+a05f	84	uc	o
+
+84	0	3
+a04s	48	c	o
+a02s	85	c	o
+a06s	118	c	o
+
+85	0	2
+a04s	66	c	o
+a06s	119	c	o
+
+86	0	4
+a05s	83	c	o
+b05s	94	c	o
+a04s	9	c	o
+a02s	112	c	o
+
+87	0	3
+a03s	94	c	o
+a02s	93	c	o
+b05f	95	uc	o
+
+88	0	2
+b06s	122	c	o
+a02s	89	c	o
+
+89	0	1
+b06s	16	c	o
+
+90	0	2
+b06s	124	c	o
+b02s	89	c	o
+
+91	0	3
+a01s	94	c	o
+a04s	12	c	o
+b05f	96	uc	o
+
+92	0	5
+a01s	95	c	o
+a03s	96	c	o
+b01s	107	c	o
+b03s	22	c	o
+b06s	120	c	o
+
+93	0	2
+a03s	97	c	o
+b05f	18	uc	o
+
+94	0	3
+a04s	56	c	o
+a02s	97	c	o
+b05f	98	uc	o
+
+95	0	4
+a03s	98	c	o
+b03s	23	c	o
+b06s	126	c	o
+a02s	18	c	o
+
+96	0	4
+a01s	98	c	o
+b01s	100	c	o
+a04s	25	c	o
+b06s	127	c	o
+
+97	0	2
+a04s	58	c	o
+b05f	19	uc	o
+
+98	0	3
+a04s	88	c	o
+b06s	128	c	o
+a02s	19	c	o
+
+99	0	2
+a04s	61	c	o
+b05f	100	uc	o
+
+100	0	3
+a04s	90	c	o
+b06s	40	c	o
+b02s	19	c	o
+
+101	0	3
+b01s	102	c	o
+b03s	114	c	o
+a06f	27	uc	o
+
+102	0	3
+b03s	104	c	o
+b02s	103	c	o
+a06f	30	uc	o
+
+103	0	2
+b03s	110	c	o
+a06f	32	uc	o
+
+104	0	3
+b04s	106	c	o
+b02s	110	c	o
+a06f	33	uc	o
+
+105	0	2
+b01s	106	c	o
+a06f	45	uc	o
+
+106	0	2
+b02s	113	c	o
+a06f	35	uc	o
+
+107	0	4
+a03s	100	c	o
+b03s	24	c	o
+b06s	39	c	o
+b02s	18	c	o
+
+108	0	2
+b04s	109	c	o
+a06f	36	uc	o
+
+109	0	1
+a06f	37	uc	o
+
+110	0	2
+b04s	113	c	o
+a06f	34	uc	o
+
+111	0	2
+a01s	54	c	o
+b05f	22	uc	o
+
+112	0	3
+a05s	80	c	o
+b05s	97	c	o
+a04s	55	c	o
+
+113	0	1
+a06f	38	uc	o
+
+114	0	3
+b01s	104	c	o
+b04s	105	c	o
+a06f	31	uc	o
+
+115	0	2
+b03s	108	c	o
+a06f	28	uc	o
+
+116	0	2
+b01s	117	c	o
+a06f	29	uc	o
+
+117	0	2
+b02s	119	c	o
+a06f	46	uc	o
+
+118	0	1
+a06f	47	uc	o
+
+119	0	1
+a06f	17	uc	o
+
+120	0	3
+a01s	126	c	o
+a03s	127	c	o
+b06f	27	uc	o
+
+121	0	1
+b06f	33	uc	o
+
+122	0	2
+b06f	37	uc	o
+a02s	16	c	o
+
+123	0	1
+b06f	34	uc	o
+
+124	0	1
+b06f	35	uc	o
+
+125	0	2
+a01s	122	c	o
+b06f	45	uc	o
+
+126	0	3
+a03s	128	c	o
+b06f	28	uc	o
+a02s	21	c	o
+
+127	0	3
+a01s	128	c	o
+a04s	125	c	o
+b06f	29	uc	o
+
+128	0	3
+a04s	122	c	o
+b06f	47	uc	o
+a02s	15	c	o
+

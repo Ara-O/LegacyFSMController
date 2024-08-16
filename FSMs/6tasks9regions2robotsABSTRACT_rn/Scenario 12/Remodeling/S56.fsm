@@ -1,0 +1,188 @@
+45
+
+S0.q0	0	3
+a05s	S1.q42	c	o
+b01s	S0.q43	c	o
+b03s	S0.q10,q8	c	o
+
+S0.q10,q8	0	3
+a05s	S1.q21,q7	c	o
+b01s	S0.q2,q24	c	o
+b04s	S0.q25,q28	c	o
+
+S0.q12,q5	0	2
+a05s	S1.q15,q4	c	o
+b04s	S0.q19,q30	c	o
+
+S0.q14,q35	0	2
+a05s	S1.q13,q32	c	o
+b02s	S0.q19,q30	c	o
+
+S0.q19,q30	0	1
+a05s	S1.q18,q31	c	o
+
+S0.q2,q24	0	3
+a05s	S1.q1,q17	c	o
+b02s	S0.q12,q5	c	o
+b04s	S0.q14,q35	c	o
+
+S0.q25,q28	0	2
+a05s	S1.q23,q34	c	o
+b01s	S0.q14,q35	c	o
+
+S0.q38	0	2
+a05s	S1.q39	c	o
+b03s	S0.q12,q5	c	o
+
+S0.q43	0	3
+a05s	S1.q40	c	o
+b02s	S0.q38	c	o
+b03s	S0.q2,q24	c	o
+
+S1.q1,q17	0	3
+a05f	S3.q2,q24	uc	o
+b02s	S1.q15,q4	c	o
+b04s	S1.q13,q32	c	o
+
+S1.q13,q32	0	2
+a05f	S3.q14,q35	uc	o
+b02s	S1.q18,q31	c	o
+
+S1.q15,q4	0	2
+a05f	S3.q12,q5	uc	o
+b04s	S1.q18,q31	c	o
+
+S1.q18,q31	0	1
+a05f	S3.q19,q30	uc	o
+
+S1.q21,q7	0	3
+a05f	S3.q10,q8	uc	o
+b01s	S1.q1,q17	c	o
+b04s	S1.q23,q34	c	o
+
+S1.q23,q34	0	2
+a05f	S3.q25,q28	uc	o
+b01s	S1.q13,q32	c	o
+
+S1.q39	0	2
+a05f	S3.q38	uc	o
+b03s	S1.q15,q4	c	o
+
+S1.q40	0	3
+a05f	S3.q43	uc	o
+b02s	S1.q39	c	o
+b03s	S1.q1,q17	c	o
+
+S1.q42	0	3
+a05f	S3.q0	uc	o
+b01s	S1.q40	c	o
+b03s	S1.q21,q7	c	o
+
+S3.q0	0	3
+a06s	S3.q44	c	o
+b01s	S3.q43	c	o
+b03s	S3.q10,q8	c	o
+
+S3.q10,q8	0	3
+a06s	S3.q26,q6	c	o
+b01s	S3.q2,q24	c	o
+b04s	S3.q25,q28	c	o
+
+S3.q11,q9	0	3
+a06f	S5.q2,q24	uc	o
+b02s	S3.q20,q3	c	o
+b04s	S3.q27,q29	c	o
+
+S3.q12,q5	0	2
+a06s	S3.q20,q3	c	o
+b04s	S3.q19,q30	c	o
+
+S3.q14,q35	0	2
+a06s	S3.q27,q29	c	o
+b02s	S3.q19,q30	c	o
+
+S3.q16,q33	0	1
+a06f	S5.q19,q30	uc	o
+
+S3.q19,q30	0	1
+a06s	S3.q16,q33	c	o
+
+S3.q2,q24	0	3
+a06s	S3.q11,q9	c	o
+b02s	S3.q12,q5	c	o
+b04s	S3.q14,q35	c	o
+
+S3.q20,q3	0	2
+a06f	S5.q12,q5	uc	o
+b04s	S3.q16,q33	c	o
+
+S3.q22,q36	0	2
+a06f	S5.q25,q28	uc	o
+b01s	S3.q27,q29	c	o
+
+S3.q25,q28	0	2
+a06s	S3.q22,q36	c	o
+b01s	S3.q14,q35	c	o
+
+S3.q26,q6	0	3
+a06f	S5.q10,q8	uc	o
+b01s	S3.q11,q9	c	o
+b04s	S3.q22,q36	c	o
+
+S3.q27,q29	0	2
+a06f	S5.q14,q35	uc	o
+b02s	S3.q16,q33	c	o
+
+S3.q37	0	3
+a06f	S5.q43	uc	o
+b02s	S3.q41	c	o
+b03s	S3.q11,q9	c	o
+
+S3.q38	0	2
+a06s	S3.q41	c	o
+b03s	S3.q12,q5	c	o
+
+S3.q41	0	2
+a06f	S5.q38	uc	o
+b03s	S3.q20,q3	c	o
+
+S3.q43	0	3
+a06s	S3.q37	c	o
+b02s	S3.q38	c	o
+b03s	S3.q2,q24	c	o
+
+S3.q44	0	3
+a06f	S5.q0	uc	o
+b01s	S3.q37	c	o
+b03s	S3.q26,q6	c	o
+
+S5.q0	0	2
+b01s	S5.q43	c	o
+b03s	S5.q10,q8	c	o
+
+S5.q10,q8	0	2
+b01s	S5.q2,q24	c	o
+b04s	S5.q25,q28	c	o
+
+S5.q12,q5	0	1
+b04s	S5.q19,q30	c	o
+
+S5.q14,q35	0	1
+b02s	S5.q19,q30	c	o
+
+S5.q19,q30	1	0
+
+S5.q2,q24	0	2
+b02s	S5.q12,q5	c	o
+b04s	S5.q14,q35	c	o
+
+S5.q25,q28	0	1
+b01s	S5.q14,q35	c	o
+
+S5.q38	0	1
+b03s	S5.q12,q5	c	o
+
+S5.q43	0	2
+b02s	S5.q38	c	o
+b03s	S5.q2,q24	c	o
+
